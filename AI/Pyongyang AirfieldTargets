@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+	<scenario>
+
+
+   <entry>
+			    <type>ship</type>
+			    <model>Models/Buildings/factory.ac</model>
+			    <name>Factory1</name>
+			    <latitude type="double">38.907788</latitude>
+			    <longitude type="double">125.231634</longitude>
+			    <speed type="double">0</speed>
+			    <rudder type="double">0</rudder>
+			    <heading type="double">000</heading>
+			    <altitude type="double">‪‪‬‪4477.29625984252</altitude>
+	  	</entry>
+      
+      <entry>
+			    <type>ship</type>
+			    <model>Models/Buildings/factory.ac</model>
+			    <name>Factory2</name>
+			    <latitude type="double">38.917403</latitude>
+			    <longitude type="double">125.232889</longitude>
+			    <speed type="double">0</speed>
+			    <rudder type="double">0</rudder>
+			    <heading type="double">000</heading>
+			    <altitude type="double">‪‪‬‪4477.29625984252</altitude>
+	  	</entry>
+      
+        <entry>
+			    <type>ship</type>
+			    <model>Models/Buildings/factory.ac</model>
+			    <name>Factory3</name>
+			    <latitude type="double">39.197149</latitude>
+			    <longitude type="double">125.674467</longitude>
+			    <speed type="double">0</speed>
+			    <rudder type="double">0</rudder>
+			    <heading type="double">000</heading>
+			    <altitude type="double">‪‪‬‪4477.29625984252</altitude>
+	  	</entry>
+      
+      <entry>
+			    <type>ship</type>
+			    <model>Models/Buildings/factory.ac</model>
+			    <name>Factory4</name>
+			    <latitude type="double">39.221010</latitude>
+			    <longitude type="double">125.668701</longitude>
+			    <speed type="double">0</speed>
+			    <rudder type="double">0</rudder>
+			    <heading type="double">000</heading>
+			    <altitude type="double">‪‪‬‪4477.29625984252</altitude>
+	  	</entry>
+      
+      <entry>
+			    <type>ship</type>
+			    <model>Models/Buildings/factory.ac</model>
+			    <name>Factory5</name>
+			    <latitude type="double">39.227251</latitude>
+			    <longitude type="double">125.676717</longitude>
+			    <speed type="double">0</speed>
+			    <rudder type="double">0</rudder>
+			    <heading type="double">000</heading>
+			    <altitude type="double">‪‪‬‪4477.29625984252</altitude>
+	  	</entry>
+      
+      <entry>
+			    <type>ship</type>
+			    <model>Models/Buildings/factory.ac</model>
+			    <name>Factory6</name>
+			    <latitude type="double">39.250459</latitude>
+			    <longitude type="double">125.675969</longitude>
+			    <speed type="double">0</speed>
+			    <rudder type="double">0</rudder>
+			    <heading type="double">000</heading>
+			    <altitude type="double">‪‪‬‪4477.29625984252</altitude>
+	  	</entry>
+      
+      <entry>
+			    <type>ship</type>
+			    <model>Models/Buildings/factory.ac</model>
+			    <name>Factory7</name>
+			    <latitude type="double">39.406146</latitude>
+			    <longitude type="double">125.896326</longitude>
+			    <speed type="double">0</speed>
+			    <rudder type="double">0</rudder>
+			    <heading type="double">000</heading>
+			    <altitude type="double">‪‪‬‪4477.29625984252</altitude>
+	  	</entry>
+      
+      <entry>
+			    <type>ship</type>
+			    <model>Models/Buildings/factory.ac</model>
+			    <name>Factory8</name>
+			    <latitude type="double">39.419025</latitude>
+			    <longitude type="double">125.884578</longitude>
+			    <speed type="double">0</speed>
+			    <rudder type="double">0</rudder>
+			    <heading type="double">000</heading>
+			    <altitude type="double">‪‪‬‪4477.29625984252</altitude>
+	  	</entry>
+      
+    </scenario>
+
+</PropertyList>
